@@ -16,7 +16,7 @@ import (
 )
 
 const (
-	ShadyBusinessChatID = -1001838471257
+	ShadyBusinessChatID = -1001902000942
 )
 
 func main() {
